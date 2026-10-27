@@ -1,0 +1,13 @@
+
+{
+  "origin": "SYD",
+  "destination": "MEL",
+  "departure_date": "2026-11-08",
+  "departure_from": "14:00",
+  "departure_to": "17:00",
+  "currency": "AUD",
+  "passengers": 1,
+  "cabin": "economy",
+  "direct_only": true,
+  "minimum_change": 0.01
+}
